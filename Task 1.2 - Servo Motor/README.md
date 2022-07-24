@@ -14,7 +14,7 @@ TinkerCad : tinkercad.com/circuits
 3.	Breadboard 
 
 
-•	The servo motor have the following three connections: 
+•	The servo motor has the following three connections: 
 
 Black ground wire. 
 
