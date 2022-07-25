@@ -6,10 +6,7 @@ TinkerCad : tinkercad.com/circuits
 
 ## • Components List:
 
-Stepper Motor/ 16 DC motor with encoder
-
-Arduino UNO
-
-Breadboard
-
-9V Battery 
+1. Stepper Motor/ 16 DC motor with encoder
+2. Arduino UNO
+3. Breadboard
+4. 9V Battery 
