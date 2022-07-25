@@ -1,6 +1,6 @@
 
 
-# Electronics Engineering Week 1 Tasks at Smart Methods Training 2022:
+##  Electronics Engineering Week 1 Tasks at Smart Methods Training 2022:
 
  1.1. Connecting the DC Motor with Arduino.
  
